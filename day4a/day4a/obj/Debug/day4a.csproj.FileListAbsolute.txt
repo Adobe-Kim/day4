@@ -1,0 +1,7 @@
+C:\VS2017.work\practice#04\day4a\day4a\obj\Debug\day4a.csprojResolveAssemblyReference.cache
+C:\VS2017.work\practice#04\day4a\day4a\obj\Debug\day4a.csproj.CoreCompileInputs.cache
+C:\VS2017.work\practice#04\day4a\day4a\bin\Debug\day4a.exe.config
+C:\VS2017.work\practice#04\day4a\day4a\bin\Debug\day4a.exe
+C:\VS2017.work\practice#04\day4a\day4a\bin\Debug\day4a.pdb
+C:\VS2017.work\practice#04\day4a\day4a\obj\Debug\day4a.exe
+C:\VS2017.work\practice#04\day4a\day4a\obj\Debug\day4a.pdb
